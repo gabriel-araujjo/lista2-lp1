@@ -1,4 +1,4 @@
-Versão mais recente encontrada no [github](https://github.com/gabriel-araujjo/lista-2-lp1)
+Versão mais recente encontrada no [github](https://github.com/gabriel-araujjo/lista2-lp1)
 
 # Lista 1 - Algoritmos de busca #
 
@@ -16,6 +16,7 @@ Para cada questão, quando é o caso, os códigos estão dispostos em
 * `include/questao#.h` - cabeçalho
 * `src/questao#.cc` - implementação
 * `test/src/questao#_teste.h` - classe de teste
+
 onde &#35; é número da questão
 
 ### Resposta à questão 4 ###
